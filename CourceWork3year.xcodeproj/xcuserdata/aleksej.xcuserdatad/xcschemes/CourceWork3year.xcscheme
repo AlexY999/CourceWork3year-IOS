@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "1FDF72A0296B579500A81DA4"
+               BuildableName = "CourceWork3year.app"
+               BlueprintName = "CourceWork3year"
+               ReferencedContainer = "container:CourceWork3year.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "1FDF72A0296B579500A81DA4"
+            BuildableName = "CourceWork3year.app"
+            BlueprintName = "CourceWork3year"
+            ReferencedContainer = "container:CourceWork3year.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
